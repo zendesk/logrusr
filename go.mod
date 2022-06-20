@@ -1,8 +1,9 @@
-module github.com/bombsimon/logrusr/v3
+module github.com/zendesk/logrusr/v3
 
-go 1.17
+go 1.18
 
 require (
+	github.com/bombsimon/logrusr/v3 v3.0.0
 	github.com/go-logr/logr v1.2.3
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.1
