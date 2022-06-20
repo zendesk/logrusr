@@ -1,4 +1,4 @@
-module github.com/zendesk/logrusr/v3
+module github.com/zendesk/logrusr/v4
 
 go 1.18
 

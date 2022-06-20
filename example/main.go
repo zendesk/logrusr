@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/sirupsen/logrus"
-	"github.com/zendesk/logrusr/v3"
+	"github.com/zendesk/logrusr/v4"
 )
 
 func main() {
