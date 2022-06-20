@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/bombsimon/logrusr/v3"
 	"github.com/sirupsen/logrus"
+	"github.com/zendesk/logrusr/v3"
 )
 
 func main() {
